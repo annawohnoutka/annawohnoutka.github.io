@@ -39,7 +39,7 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 " alt="" style="width:100%">
       <h3>My work at the Community Boating Center</h3>
       <p>Bringing Bellingham to the Bay.</p>
-     <img src="<a href='https://postimg.cc/Z9vZ7w77' target='_blank'><img src='https://i.postimg.cc/Z9vZ7w77/keelboat-6.jpg' border='0' alt='keelboat-6'/></a>"
+     <img src="https://i.postimg.cc/vm3BmjWs/keelboat-6.jpg"
     <div class="w3-quarter">
       <img src="/w3images/steak.jpg" alt="Steak" style="width:100%">
       <h3>Let Me Tell You About This Steak</h3>
