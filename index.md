@@ -15,8 +15,8 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
 <nav class="w3-sidebar w3-bar-block w3-card w3-top w3-xlarge w3-animate-left" style="display:none;z-index:2;width:40%;min-width:300px" id="mySidebar">
   <a href="javascript:void(0)" onclick="w3_close()"
   class="w3-bar-item w3-button">Close Menu</a>
-  <a href="#food" onclick="w3_close()" class="w3-bar-item w3-button">Food</a>
-  <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">About</a>
+  <a href="#food" onclick="w3_close()" class="w3-bar-item w3-button">Contact</a>
+  <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button">My projects</a>
 </nav>
 
 <!-- Top menu -->
@@ -34,15 +34,16 @@ body,h1,h2,h3,h4,h5,h6 {font-family: "Karma", sans-serif}
   <!-- First Photo Grid-->
   <div class="w3-row-padding w3-padding-16 w3-center" id="food">
     <div class="w3-quarter">
-      <img src="" alt="" style="width:100%">
+      <img src="
+
+" alt="" style="width:100%">
       <h3>My work at the Community Boating Center</h3>
       <p>Bringing Bellingham to the Bay.</p>
     </div>
     <div class="w3-quarter">
       <img src="/w3images/steak.jpg" alt="Steak" style="width:100%">
       <h3>Let Me Tell You About This Steak</h3>
-      <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p>
-    </div>
+      <p>Once again, some random text to lorem lorem lorem lorem ipsum text praesent tincidunt ipsum lipsum.</p
     <div class="w3-quarter">
       <img src="/w3images/cherries.jpg" alt="Cherries" style="width:100%">
       <h3>Cherries, interrupted</h3>
