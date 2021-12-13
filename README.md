@@ -13,7 +13,7 @@ Taishi photo of Anna
 CBC Activities
 ![DSC01000](https://user-images.githubusercontent.com/95939657/145753626-17ce940f-a47a-40c2-a413-6c82f144a7c7.jpg)
 
-Kayaking Anna
+Seize the Bay Pilsner
 ![Seize the Bay-3](https://user-images.githubusercontent.com/95939657/145753662-c01ace67-1d26-4934-9ab2-e9143142db8b.jpg)
 
 Friends at CBC
