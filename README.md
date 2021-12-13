@@ -67,3 +67,9 @@ Leah and Yumi holding Magazine
 
 Jim on Boat
 ![IMG_6602](https://user-images.githubusercontent.com/95939657/145889758-c84ce3ea-1e7d-4ca7-8f5d-47786a686ea6.jpeg)
+
+Anna Photo in Southside
+![150FB834-FA4F-424A-B27D-157E542C8A95](https://user-images.githubusercontent.com/95939657/145892014-2edf8e6b-00dd-431b-b842-56ae2332e4ce.JPG)
+
+Anna w Tilly![IMG_4505](https://user-images.githubusercontent.com/95939657/145892158-f852a220-1353-4e4a-92dd-dd010791df6b.jpeg)
+
