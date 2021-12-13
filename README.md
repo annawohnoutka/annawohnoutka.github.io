@@ -74,4 +74,14 @@ Anna Photo in Southside
 
 Anna w Tilly![IMG_4505](https://user-images.githubusercontent.com/95939657/145892158-f852a220-1353-4e4a-92dd-dd010791df6b.jpeg)
 
+Anna and Jordyn Bellingham
+![IMG_9924](https://user-images.githubusercontent.com/95939657/145893450-358ae6ba-9d42-4e8b-a4df-a48a142b30b8.JPG)
 
+Taishi with bird
+![IMG_8359](https://user-images.githubusercontent.com/95939657/145893527-27bee730-0a54-4fdd-a750-8569bdab57c2.JPEG)
+
+Taishi with camera
+![IMG_8359](https://user-images.githubusercontent.com/95939657/145893564-0169b649-ee5a-4150-9ce7-3b387e7f0a2d.JPEG)
+
+Taishi at beach vertical
+![IMG_8359](https://user-images.githubusercontent.com/95939657/145893602-a2b034b4-8366-4b7a-959b-f30065364757.JPEG)
