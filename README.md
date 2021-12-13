@@ -56,8 +56,9 @@ Southside Living
 ![IMG_7461](https://user-images.githubusercontent.com/95939657/145889416-f81be51d-51c0-4872-b107-2ae5d0c58e51.jpeg)
 
 Stonesthrow Beer Release Poster
-
 ![IMG_7998](https://user-images.githubusercontent.com/95939657/145889580-63824735-e638-43d7-a27f-3be5744725ee.jpeg)
+
+
 
 Anna holding Southside Living Magazine
 ![IMG_7544](https://user-images.githubusercontent.com/95939657/145889431-4ed245ef-10f9-4bcf-acfb-510a4965f5a2.jpeg)
@@ -72,4 +73,5 @@ Anna Photo in Southside
 ![150FB834-FA4F-424A-B27D-157E542C8A95](https://user-images.githubusercontent.com/95939657/145892014-2edf8e6b-00dd-431b-b842-56ae2332e4ce.JPG)
 
 Anna w Tilly![IMG_4505](https://user-images.githubusercontent.com/95939657/145892158-f852a220-1353-4e4a-92dd-dd010791df6b.jpeg)
+
 
