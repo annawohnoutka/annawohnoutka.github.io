@@ -102,3 +102,9 @@ Hannah Oysterdome
 
 Taishi taking photo at Clark's Point
 ![IMG_5043](https://user-images.githubusercontent.com/95939657/146497660-679e148d-ff16-4e09-9171-27474f9c6ce2.jpeg)
+
+
+Anna Resume[AnnaWohnoutka_2021Resume.docx](https://github.com/annawohnoutka/annawohnoutka.github.io/files/7732580/AnnaWohnoutka_2021Resume.docx)
+
+Anna Resume ScreenShot
+<img width="488" alt="Screen Shot 2021-12-16 at 10 57 34 PM" src="https://user-images.githubusercontent.com/95939657/146502709-35d03876-a4c6-4546-b97e-23c7ae49c25b.png">
