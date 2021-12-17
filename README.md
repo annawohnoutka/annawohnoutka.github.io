@@ -85,3 +85,20 @@ Taishi with camera
 
 Taishi at beach vertical
 ![IMG_8359](https://user-images.githubusercontent.com/95939657/145893602-a2b034b4-8366-4b7a-959b-f30065364757.JPEG)
+
+
+Photo of Bellingham Bay 
+![DSC_0098](https://user-images.githubusercontent.com/95939657/146497356-dd1c5312-cf90-46d5-8efc-6b5cb25cceed.jpeg)
+
+Hannah and Anna Hiking Oyster Dome
+![DSC_0171](https://user-images.githubusercontent.com/95939657/146497446-3530eee9-82f1-4d0f-bc5c-a8eb099b41c0.jpeg)
+
+Hannah. Clayton, Tai Oyster Dome
+![IMG_9955](https://user-images.githubusercontent.com/95939657/146497612-7c7957a4-756d-476d-97b8-014db25d2279.jpeg)
+
+Hannah Oysterdome
+![IMG_9951](https://user-images.githubusercontent.com/95939657/146497641-b6b465b8-2b92-4867-ab05-8d3b2e7334![IMG_0010](https://user-images.githubusercontent.com/95939657/146497652-ca0e3abd-e67d-444f-aa55-235679316752.jpeg)
+14.jpeg)
+
+Taishi taking photo at Clark's Point
+![IMG_5043](https://user-images.githubusercontent.com/95939657/146497660-679e148d-ff16-4e09-9171-27474f9c6ce2.jpeg)
