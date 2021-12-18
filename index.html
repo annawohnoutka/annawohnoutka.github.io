@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
-<title>W3.CSS Template</title>
+<title>Anna Wohnoutka's Website</title>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<link rel="stylesheet" href="https://fonts.google.com/knowledge/using_type/using_web_fonts">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inconsolata">
 <style>
     body,
     h1,
@@ -12,7 +12,7 @@
     h3,
     h4,
     h5 {
-        font-family: "Burkshire Swash", sans-serif
+        font-family: "Inconsolata", sans-serif
     }
 
     .w3-quarter img {
@@ -28,75 +28,112 @@
 
 <body class="w3-light-grey">
 
-    <!-- Sidebar/menu -->
-    <nav class="w3-sidebar w3-bar-block w3-black w3-animate-right w3-top w3-text-light-grey w3-large"
-        style="z-index:3;width:250px;font-weight:bold;display:none;right:0;" id="mySidebar">
-        <a href="javascript:void()" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-32">CLOSE</a>
-        <a href="#" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-16">PORTFOLIO</a>
-        <a href="#about" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-16">ABOUT ME</a>
-        <a href="#contact" onclick="w3_close()" class="w3-bar-item w3-button w3-center w3-padding-16">CONTACT</a>
-    </nav>
-
-    <!-- Top menu on small screens -->
-    <header class="w3-container w3-top w3-white w3-xlarge w3-padding-16">
-        <span class="w3-left w3-padding">Anna Wohnoutka</span>
-        <a href="javascript:void(0)" class="w3-right w3-button w3-white" onclick="w3_open()">☰</a>
-    </header>
-
-    <!-- Overlay effect when opening sidebar on small screens -->
-    <div class="w3-overlay w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu"
-        id="myOverlay"></div>
+ <!-- Links (sit on top) -->
+<div class="w3-top">
+    <div class="w3-row w3-padding w3-black">
+      <div class="w3-col s3">
+        <a href="#" class="w3-button w3-block w3-black">HOME</a>
+      </div>
+      <div class="w3-col s3">
+        <a href="#about" class="w3-button w3-block w3-black">ABOUT</a>
+      </div>
+      <div class="w3-col s3">
+        <a href="#photogrid" class="w3-button w3-block w3-black">PHOTOGRID</a>
+      </div>
+      <div class="w3-col s3">
+        <a href="#where" class="w3-button w3-block w3-black">CONTACT</a>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Header with image -->
+  <header class="bgimg w3-display-container w3-grayscale-min" id="home">
+    <div class="w3-display-bottomleft w3-center w3-padding-large w3-hide-small">
+      <span class="w3-tag">Personal Website</span>
+    </div>
+    <div class="w3-display-bottomright w3-center w3-padding-large">
+      <span class="w3-text-white">15 Adr street, 5015</span>
+    </div>
+  </header>
 
     <!-- !PAGE CONTENT! -->
     <div class="w3-main w3-content" style="max-width:1600px;margin-top:83px">
+
+        <!-- About Container -->
+        <div class="w3-container" id="about">
+            <div class="w3-content" style="max-width:700px">
+                <h5 class="w3-center w3-padding-64"><span class="w3-tag w3-wide">Anna Wohnoutka</span></h5>
+                <p>Please enjoy little snippets of my favorite parts of life! From sailing and hiking in the Pacfic Northwest.... need to add more.</p>
+                <p>More about me on the footer.</p>
+                <div class="w3-panel w3-leftbar w3-light-grey">
+                    <p><i>blah blah blah</i></p>
+                    <p>Anna Wohnoutka</p>
+                </div>
+                <img src="https://user-images.githubusercontent.com/95939657/146653932-76867c36-2fae-4535-a934-146236886183.JPG" style="width:100%;max-width:1000px" class="w3-margin-top">
+                <p><strong>Photo taken at the University of Washington</strong> By Visneto Media</p>
+            </div>
+        </div>
+
 
         <!-- Photo grid -->
         <div class="w3-row">
             <div class="w3-quarter">
                 <img src="https://user-images.githubusercontent.com/95939657/145753950-da1d03a8-5feb-4fce-b08a-235631cbf9cd.jpg"
-                    style="width:100%" onclick="onClick(this)" alt="Teaching sailing in the breezy fall- still beautiful!">
+                    style="width:100%" onclick="onClick(this)"
+                    alt="Teaching sailing in the breezy fall- still beautiful!">
                 <img src="https://user-images.githubusercontent.com/95939657/145754162-e149dc80-7a14-4753-9d37-b7da4698b178.jpg"
-                    style="width:100%" onclick="onClick(this)" alt="My coworker spying on seals in Bellingham Bay after a long say of kayaking.">
+                    style="width:100%" onclick="onClick(this)"
+                    alt="My coworker spying on seals in Bellingham Bay after a long say of kayaking.">
                 <img src="https://user-images.githubusercontent.com/95939657/145893450-358ae6ba-9d42-4e8b-a4df-a48a142b30b8.JPG"
-                    style="width:100%" onclick="onClick(this)" alt="My roomate & I on our porch admiring the beauty of the Pacific Northwest.">
+                    style="width:100%" onclick="onClick(this)"
+                    alt="My roomate & I on our porch admiring the beauty of the Pacific Northwest.">
             </div>
 
             <div class="w3-quarter">
                 <img src="https://user-images.githubusercontent.com/95939657/145754467-06523404-14fe-468e-afb3-c867895e21ad.jpg"
                     style="width:100%" onclick="onClick(this)" alt="Tilly, my boss's dog & everyone's best friend.">
                 <img src="https://user-images.githubusercontent.com/95939657/145889249-fcb8d26d-108b-483c-92cd-21c98386ff4b.JPEG"
-                    style="width:100%" onclick="onClick(this)" alt="Sailing with friends and co-workers on a hot July day!">
+                    style="width:100%" onclick="onClick(this)"
+                    alt="Sailing with friends and co-workers on a hot July day!">
                 <img src="https://user-images.githubusercontent.com/95939657/145753723-daf8428b-701f-473e-a518-7b29a30f1643.jpg"
-                    style="width:100%" onclick="onClick(this)" alt="Friends at the Community Boating Center getting ready to conqure the day!">
+                    style="width:100%" onclick="onClick(this)"
+                    alt="Friends at the Community Boating Center getting ready to conqure the day!">
             </div>
 
             <div class="w3-quarter">
-                <img src="https://user-images.githubusercontent.com/95939657/145754084-8aea844d-9639-4d3b-8398-385021060a36.jpg" style="width:100%" onclick="onClick(this)"
+                <img src="https://user-images.githubusercontent.com/95939657/145754084-8aea844d-9639-4d3b-8398-385021060a36.jpg"
+                    style="width:100%" onclick="onClick(this)"
                     alt="My students on a J-24 Keelboat looking towards the Olymic Mountains.">
-                <img src="https://user-images.githubusercontent.com/95939657/145893564-0169b649-ee5a-4150-9ce7-3b387e7f0a2d.JPEG" style="width:100%" onclick="onClick(this)"
+                <img src="https://user-images.githubusercontent.com/95939657/145893564-0169b649-ee5a-4150-9ce7-3b387e7f0a2d.JPEG"
+                    style="width:100%" onclick="onClick(this)"
                     alt="My boyfriend luring birds over on our Hike to Mount Si, jsut South East of Seattle.">
-                <img src="https://user-images.githubusercontent.com/95939657/145753626-17ce940f-a47a-40c2-a413-6c82f144a7c7.jpg" style="width:100%" onclick="onClick(this)"
-                    alt="CBC activities">
+                <img src="https://user-images.githubusercontent.com/95939657/145753626-17ce940f-a47a-40c2-a413-6c82f144a7c7.jpg"
+                    style="width:100%" onclick="onClick(this)" alt="CBC activities">
             </div>
 
             <div class="w3-quarter">
-                <img src="https://user-images.githubusercontent.com/95939657/146497356-dd1c5312-cf90-46d5-8efc-6b5cb25cceed.jpeg" style="width:100%" onclick="onClick(this)"
+                <img src="https://user-images.githubusercontent.com/95939657/146497356-dd1c5312-cf90-46d5-8efc-6b5cb25cceed.jpeg"
+                    style="width:100%" onclick="onClick(this)"
                     alt="San Juan Islands from my favorite viewpoint in Washington.">
-                <img src="https://user-images.githubusercontent.com/95939657/146497652-ca0e3abd-e67d-444f-aa55-235679316752.jpeg" style="width:100%" onclick="onClick(this)"
+                <img src="https://user-images.githubusercontent.com/95939657/146497652-ca0e3abd-e67d-444f-aa55-235679316752.jpeg"
+                    style="width:100%" onclick="onClick(this)"
                     alt="Exploring the famous Oyster Dome with my friend. Was slightly dissapointed to find out that it was a 6 mile hike with a substancial elevation gain, not a resturant.">
-                <img src="https://user-images.githubusercontent.com/95939657/146497660-679e148d-ff16-4e09-9171-27474f9c6ce2.jpeg" style="width:100%" onclick="onClick(this)"
+                <img src="https://user-images.githubusercontent.com/95939657/146497660-679e148d-ff16-4e09-9171-27474f9c6ce2.jpeg"
+                    style="width:100%" onclick="onClick(this)"
                     alt="Impossible to capture the natural beauty of Clark's Point, a popular lookout on Bellingham Bay. Still, we try.">
             </div>
-     
-        <div class="w3-quarter">
-            <img src="https://user-images.githubusercontent.com/95939657/146497612-7c7957a4-756d-476d-97b8-014db25d2279.jpeg" style="width:100%" onclick="onClick(this)"
-                alt="Hiking schenanigans (again).">
-            <img src="https://user-images.githubusercontent.com/95939657/146497652-ca0e3abd-e67d-444f-aa55-235679316752.jpeg" style="width:100%" onclick="onClick(this)"
-                alt="Exploring the famous Oyster Dome with my friend. Was slightly dissapointed to find out that it was a 6 mile hike with a substancial elevation gain, not a resturant.">
-            <img src="https://user-images.githubusercontent.com/95939657/146497660-679e148d-ff16-4e09-9171-27474f9c6ce2.jpeg" style="width:100%" onclick="onClick(this)"
-                alt="Impossible to capture the natural beauty of Clark's Point, a popular lookout on Bellingham Bay. Still, we try.">
+
+            <div class="w3-quarter">
+                <img src="https://user-images.githubusercontent.com/95939657/146497612-7c7957a4-756d-476d-97b8-014db25d2279.jpeg"
+                    style="width:100%" onclick="onClick(this)" alt="Hiking schenanigans (again).">
+                <img src="https://user-images.githubusercontent.com/95939657/146497652-ca0e3abd-e67d-444f-aa55-235679316752.jpeg"
+                    style="width:100%" onclick="onClick(this)"
+                    alt="Exploring the famous Oyster Dome with my friend. Was slightly dissapointed to find out that it was a 6 mile hike with a substancial elevation gain, not a resturant.">
+                <img src="https://user-images.githubusercontent.com/95939657/146497660-679e148d-ff16-4e09-9171-27474f9c6ce2.jpeg"
+                    style="width:100%" onclick="onClick(this)"
+                    alt="Impossible to capture the natural beauty of Clark's Point, a popular lookout on Bellingham Bay. Still, we try.">
+            </div>
         </div>
-    </div>
         <!-- Pagination -->
         <div class="w3-center w3-padding-32">
             <div class="w3-bar">
@@ -121,7 +158,8 @@
         <!-- About section -->
         <div class="w3-container w3-dark-grey w3-center w3-text-light-grey w3-padding-32" id="about">
             <h4><b>About Me</b></h4>
-            <img src="https://user-images.githubusercontent.com/95939657/145754503-e9c5ba95-0766-46ea-bc63-f35872d069f6.JPG" alt="Me" class="w3-image w3-padding-32" width="600" height="650">
+            <img src="https://user-images.githubusercontent.com/95939657/145754503-e9c5ba95-0766-46ea-bc63-f35872d069f6.JPG"
+                alt="Me" class="w3-image w3-padding-32" width="600" height="650">
             <div class="w3-content w3-justify" style="max-width:600px">
                 <h4>Anna Wohnoutka</h4>
                 <p>Just me, myself and I, exploring beautiful Western Washington and beyond. I am a senior at Western
@@ -145,18 +183,11 @@
                 <div class="w3-white">
                     <div class="w3-container w3-padding-small w3-center w3-grey" style="width:80%">60%</div>
                 </div>
-                <p><button
-                        class="w3-button w3-light-grey w3-padding-large w3-margin-top w3-margin-bottom w3-hover-black">Download
-                        Resume</button></p>
-                <hr class="w3-opacity">
-                <div class="w3-half">
-                    <ul class="w3-ul w3-white w3-center">
-                        <li class="w3-light-grey w3-padding-24">
-                        </li>
-                    </ul>
-                </div>
+                </li>
+                </ul>
             </div>
         </div>
+    </div>
     </div>
 
     <!-- Contact section -->
@@ -191,79 +222,83 @@
                     congue gravida diam non fringilla.</p>
             </div>
 
-            <p>Download my Resume:<p>
-            <a href="https://github.com/annawohnoutka/annawohnoutka.github.io/files/7732580/AnnaWohnoutka_2021Resume.docx" download>
-              <img src="https://user-images.githubusercontent.com/95939657/146502709-35d03876-a4c6-4546-b97e-23c7ae49c25b.png" alt="W3Schools" width="104" height="142">
-            </a>
-            
-            </body>
-            </html>
-                        
-            <div class="w3-third">
-                <h3>Social Media</h3>
-                <ul class="w3-ul">
-                    <li class="w3-padding-16 w3-hover-black">
-                        <img src="/w3images/workshop.jpg" class="w3-left w3-margin-right" style="width:50px">
-                        <span class="w3-large">Lorem</span><br>
-                        <span>Sed mattis nunc</span>
-                    </li>
-                    <li class="w3-padding-16 w3-hover-black">
-                        <img src="/w3images/gondol.jpg" class="w3-left w3-margin-right" style="width:50px">
-                        <span class="w3-large">Ipsum</span><br>
-                        <span>Praes tinci sed</span>
-                    </li>
-                </ul>
-            </div>
+            <p>Download my Resume:
+            <p>
+                <a href="https://github.com/annawohnoutka/annawohnoutka.github.io/files/7732580/AnnaWohnoutka_2021Resume.docx"
+                    download>
+                    <img src="https://user-images.githubusercontent.com/95939657/146502709-35d03876-a4c6-4546-b97e-23c7ae49c25b.png"
+                        alt="W3Schools" width="104" height="142">
+                </a>
 
-            <div class="w3-third">
-                <h3>POPULAR TAGS</h3>
-                <p>
-                    <span class="w3-tag w3-black w3-margin-bottom">Travel</span> <span
-                        class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Japan</span> <span
-                        class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Spain</span>
-                    <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Outreach</span> <span
-                        class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Community</span> <span
-                        class="w3-tag w3-dark-grey w3-small w3-margin-bottom">DIY</span>
-                    <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Communications</span> <span
-                        class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Baby</span> <span
-                        class="w3-tag w3-dark-grey w3-small w3-margin-bottom">BellinghamWA</span>
-                    <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">socialmedia</span> <span
-                        class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Team Bonding</span> <span
-                        class="w3-tag w3-dark-grey w3-small w3-margin-bottom">PNWonderland</span>
-                    <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Digital Marketing</span> <span
-                        class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Kayaking</span>
-                </p>
-            </div>
-        </div>
-    </footer>
+</body>
 
-    <div class="w3-black w3-center w3-padding-24">Powered by <a href="https://www.w3schools.com/w3css/default.asp"
-            title="W3.CSS" target="_blank" class="w3-hover-opacity">w3.css</a></div>
+</html>
 
-    <!-- End page content -->
-    </div>
+<div class="w3-third">
+    <h3>Social Media</h3>
+    <ul class="w3-ul">
+        <li class="w3-padding-16 w3-hover-black">
+            <img src="/w3images/workshop.jpg" class="w3-left w3-margin-right" style="width:50px">
+            <span class="w3-large">Lorem</span><br>
+            <span>Sed mattis nunc</span>
+        </li>
+        <li class="w3-padding-16 w3-hover-black">
+            <img src="/w3images/gondol.jpg" class="w3-left w3-margin-right" style="width:50px">
+            <span class="w3-large">Ipsum</span><br>
+            <span>Praes tinci sed</span>
+        </li>
+    </ul>
+</div>
 
-    <script>
-        // Script to open and close sidebar
-        function w3_open() {
-            document.getElementById("mySidebar").style.display = "block";
-            document.getElementById("myOverlay").style.display = "block";
-        }
+<div class="w3-third">
+    <h3>POPULAR TAGS</h3>
+    <p>
+        <span class="w3-tag w3-black w3-margin-bottom">Travel</span> <span
+            class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Japan</span> <span
+            class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Spain</span>
+        <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Outreach</span> <span
+            class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Community</span> <span
+            class="w3-tag w3-dark-grey w3-small w3-margin-bottom">DIY</span>
+        <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Communications</span> <span
+            class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Baby</span> <span
+            class="w3-tag w3-dark-grey w3-small w3-margin-bottom">BellinghamWA</span>
+        <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">socialmedia</span> <span
+            class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Team Bonding</span> <span
+            class="w3-tag w3-dark-grey w3-small w3-margin-bottom">PNWonderland</span>
+        <span class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Digital Marketing</span> <span
+            class="w3-tag w3-dark-grey w3-small w3-margin-bottom">Kayaking</span>
+    </p>
+</div>
+</div>
+</footer>
 
-        function w3_close() {
-            document.getElementById("mySidebar").style.display = "none";
-            document.getElementById("myOverlay").style.display = "none";
-        }
+<div class="w3-black w3-center w3-padding-24">Powered by <a href="https://www.w3schools.com/w3css/default.asp"
+        title="W3.CSS" target="_blank" class="w3-hover-opacity">w3.css</a></div>
 
-        // Modal Image Gallery
-        function onClick(element) {
-            document.getElementById("img01").src = element.src;
-            document.getElementById("modal01").style.display = "block";
-            var captionText = document.getElementById("caption");
-            captionText.innerHTML = element.alt;
-        }
+<!-- End page content -->
+</div>
 
-    </script>
+<script>
+    // Script to open and close sidebar
+    function w3_open() {
+        document.getElementById("mySidebar").style.display = "block";
+        document.getElementById("myOverlay").style.display = "block";
+    }
+
+    function w3_close() {
+        document.getElementById("mySidebar").style.display = "none";
+        document.getElementById("myOverlay").style.display = "none";
+    }
+
+    // Modal Image Gallery
+    function onClick(element) {
+        document.getElementById("img01").src = element.src;
+        document.getElementById("modal01").style.display = "block";
+        var captionText = document.getElementById("caption");
+        captionText.innerHTML = element.alt;
+    }
+
+</script>
 
 
 </body>
