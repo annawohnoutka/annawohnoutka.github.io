@@ -108,3 +108,15 @@ Anna Resume[AnnaWohnoutka_2021Resume.docx](https://github.com/annawohnoutka/anna
 
 Anna Resume ScreenShot
 <img width="488" alt="Screen Shot 2021-12-16 at 10 57 34 PM" src="https://user-images.githubusercontent.com/95939657/146502709-35d03876-a4c6-4546-b97e-23c7ae49c25b.png">
+
+Taylor Shellfish Oyster Farms
+![DSC_0279](https://user-images.githubusercontent.com/95939657/146653924-fd09845c-6696-4074-a04f-bbbd5e2aa3d2.jpeg)
+
+Tayor Shellfish 
+![DSC_0280](https://user-images.githubusercontent.com/95939657/146653927-a20d41d9-01ec-4ce1-86b4-fae603926bb0.jpeg)
+
+Taylor Shellfish
+![DSC_0282](https://user-images.githubusercontent.com/95939657/146653931-995e3ad7-f066-4284-8194-995074659862.jpeg)
+
+Anna at UW
+![IMG_0644](https://user-images.githubusercontent.com/95939657/146653932-76867c36-2fae-4535-a934-146236886183.JPG)
