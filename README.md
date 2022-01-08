@@ -121,17 +121,6 @@ Taylor Shellfish
 Anna at UW
 ![IMG_0644](https://user-images.githubusercontent.com/95939657/146653932-76867c36-2fae-4535-a934-146236886183.JPG)
 
-FB Icon
-![104498_facebook_icon](https://user-images.githubusercontent.com/95939657/146655502-4562f8b2-c936-4181-8255-1ff536907f75.png)
-
-
-IG Icon
-![1298747_instagram_brand_logo_social media_icon](https://user-images.githubusercontent.com/95939657/146655506-8bd1de5e-f3be-4367-89d8-40a88d9fd2a2.png)
-
-
-Linkedin Icon
-![4747495_linked in_social media_networking_icon](https://user-images.githubusercontent.com/95939657/146655504-c5e7d23c-36e8-41a0-86d7-362fb6763612.png)
-
 Anna's Intern Report
 [Anna's Intern report 2021.pdf](https://github.com/annawohnoutka/annawohnoutka.github.io/files/7759852/Anna.s.Intern.report.2021.pdf)
 
